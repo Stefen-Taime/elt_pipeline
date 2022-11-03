@@ -1,1 +1,5 @@
- kafka-python
+kafka-python
+requests==2.27.1
+validators
+aiohttp
+pytest
